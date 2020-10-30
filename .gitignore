@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 django_env/*
 django_template/blog/migrations/*
+django_template/media/profile_pics/*
+django_template/user/migrations/*
